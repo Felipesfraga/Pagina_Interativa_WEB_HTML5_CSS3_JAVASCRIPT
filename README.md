@@ -4,7 +4,7 @@
 
 ###Descrição###
 
-Para funcionar essa pagina no seu navegado vc tem que uma pasta na área de trabalho, adicionar uma pasta e baixar esses 3 arquivos: "index.html", "style.css" e "JavaScript" e depois clicar na pasta o arquivo INDEX que ele vai rodar no navegador.
+Para funcionar essa pagina no seu navegado vc tem que uma pasta na área de trabalho, adicionar uma pasta e baixar esses 3 arquivos: "index.html", "style.css" e "script.js" e depois clicar na pasta o arquivo INDEX que ele vai rodar no navegador.
 
 Nome: Felipe dos Santos Fraga
 
