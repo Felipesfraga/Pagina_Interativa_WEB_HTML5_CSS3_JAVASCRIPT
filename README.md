@@ -3,9 +3,11 @@
 Uma aplicação web interativa e educativa desenvolvida para apresentar as principais partes e o funcionamento do hardware de um computador, além de demonstrar conceitos fundamentais de manipulação do DOM através do JavaScript.
 
 ---
+
 ## 🔗 Demonstração
 [Link da página online](https://felipesfraga.github.io/Pagina_Interativa_WEB_HTML5_CSS3_JAVASCRIPT/)
 
+---
 ## 📌 Sobre o Projeto
 
 O objetivo deste projeto é oferecer uma experiência simples e visual para que usuários aprendam sobre o funcionamento de componentes essenciais como **Processador (CPU)**, **Memória RAM**, **Placa de Vídeo (GPU)** e **HD/SSD**. 
