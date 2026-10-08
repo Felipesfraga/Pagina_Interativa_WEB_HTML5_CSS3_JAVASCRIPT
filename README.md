@@ -66,5 +66,5 @@ Uma aplicação web interativa e educativa desenvolvida para apresentar as princ
 
 ---
 
-Desenvolvido por [FELIPE DOS SANTOS FRAGA](https://github.com/Felipesfraga/) 🚀  
-[[Link do meu Linkedin](https://www.linkedin.com/in/felipesfraga/)]
+Desenvolvido por [FELIPE DOS SANTOS FRAGA](https://github.com/Felipesfraga/) 🚀  [[Link do meu Linkedin](https://www.linkedin.com/in/felipesfraga/)]
+
